@@ -6,8 +6,8 @@ Welcome to my personal portfolio website! I’m **Ayush Sharma**, a passionate c
 
 ## 🔗 Live Preview
 
-[Click here to view the portfolio](https://ayush1918.github.io/your-repo-name/)  
-*(Update with your actual GitHub Pages link once deployed)*
+[Click here to view the portfolio](https://ayush1918.github.io/ayush-sharma-portfolio/)  
+
 
 ## 🛡️ About Me
 
