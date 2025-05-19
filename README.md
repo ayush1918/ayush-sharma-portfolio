@@ -46,7 +46,7 @@ Welcome to my personal portfolio website! I’m **Ayush Sharma**, a passionate c
 
 ## 📸 Preview
 
-![Screenshot](https://via.placeholder.com/1200x700.png?text=Portfolio+Screenshot)
+![Screenshot](https://github.com/ayush1918/ayush-sharma-portfolio/blob/main/assest/preview.png)
 
 
 
