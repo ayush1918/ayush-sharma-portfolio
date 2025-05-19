@@ -37,6 +37,13 @@ Welcome to my personal portfolio website! I’m **Ayush Sharma**, a passionate c
 - Dark-themed interface reflecting cybersecurity aesthetics
 - Interactive sections for skills, certifications, and projects
 
+## 🛡️ Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/ayush-sharma-884595255)
+- [GitHub](https://github.com/ayush1918)
+- [Email](mailto:ayushsharmahr4@gmail.com)
+  
+
 ## 📸 Preview
 
 ![Screenshot](https://via.placeholder.com/1200x700.png?text=Portfolio+Screenshot)
